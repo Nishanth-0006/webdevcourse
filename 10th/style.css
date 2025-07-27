@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    background-blend-mode: color;
+}
+h1{
+    text-align: center;
+    color: rgb(253, 247, 237);
+    font-size: 100;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif Bold', sans-serif;
+}
