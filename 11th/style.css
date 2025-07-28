@@ -1,0 +1,7 @@
+nav ul {
+    display: flex;
+    gap: 20px; /* optional: adds space between links */
+    list-style: none; /* optional: removes bullet points */
+    padding: 0; /* optional: removes default padding */
+    margin: 0; /* optional: removes default margin */
+}
